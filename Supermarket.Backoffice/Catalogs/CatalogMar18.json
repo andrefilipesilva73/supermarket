@@ -1,0 +1,37 @@
+﻿{
+  "Products": [
+    {
+      "Barcode": "Apple",
+      "Description": "Fruit | Apple",
+      "PricePerUnit": 0.25,
+      "QuantityInStock": 999999
+    },
+    {
+      "Barcode": "Orange",
+      "Description": "Fruit | Orange",
+      "PricePerUnit": 0.30,
+      "QuantityInStock": 999999
+    },
+    {
+      "Barcode": "Banana",
+      "Description": "Fruit | Banana",
+      "PricePerUnit": 0.15,
+      "QuantityInStock": 999999
+    },
+    {
+      "Barcode": "Papaya",
+      "Description": "Fruit | Papaya",
+      "PricePerUnit": 0.50,
+      "QuantityInStock": 999999,
+      "PromotionsIds": [
+        "Get3Pay2"
+      ]
+    }
+  ],
+  "Promotions": [
+    {
+      "Id": "Get3Pay2",
+      "Description": "Get three, Pay two"
+    }
+  ]
+}

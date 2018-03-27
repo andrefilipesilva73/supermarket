@@ -1,0 +1,9 @@
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\bin\Debug\Catalogs\CatalogMar18.json
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\bin\Debug\Supermarket.Backoffice.dll
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\bin\Debug\Supermarket.Backoffice.pdb
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\bin\Debug\Newtonsoft.Json.dll
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\bin\Debug\Newtonsoft.Json.xml
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\obj\Debug\Supermarket.Backoffice.csprojResolveAssemblyReference.cache
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\obj\Debug\Supermarket.Backoffice.csproj.CoreCompileInputs.cache
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\obj\Debug\Supermarket.Backoffice.dll
+D:\Pessoal\V\code\Vestas.Supermarket.Backoffice\obj\Debug\Supermarket.Backoffice.pdb
